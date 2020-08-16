@@ -1,0 +1,34 @@
+#login_page{
+    margin-top:5%;
+}
+#welcome_text{
+    font-weight:bolder;
+    margin-bottom:30px;
+}
+.label{
+    font-weight:bolder;
+}
+#submit{
+    margin-left:15%;
+    padding:10px 26% 10px 26%;
+    border-radius:50px;
+    border-width:0px;
+    background-color:rgba(255, 140, 0, 0.747)
+}
+#submit:hover{
+    transform:scale(1.1);
+    background-color:skyblue;
+}
+span{
+    color:rgba(255, 140, 0, 0.747);
+    font-weight:bold;
+    text-decoration:underline;
+}
+#link{
+    color:rgba(255, 140, 0, 0.747);
+    font-weight:bold;
+    text-decoration:underline;
+}
+#sign_up{
+    margin-top:20px;
+}
